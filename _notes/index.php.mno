@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_topic" value="name:topic_ID;datatype:int,name:class_ID;datatype:int,name:topic_Subject;datatype:string,name:topic_Author;datatype:string,name:topic_Content;datatype:blob,name:topic_Time;datatype:timestamp" />
+	<infoitem key="UD_class" value="name:class_ID;datatype:int,name:class_Name;datatype:string" />
+</info>

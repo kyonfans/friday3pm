@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_topicSearch" value="name:topic_ID;datatype:int,name:topic_Subject;datatype:string,name:topic_Author;datatype:string,name:topic_Content;datatype:blob,name:topic_Time;datatype:timestamp" />
+</info>
